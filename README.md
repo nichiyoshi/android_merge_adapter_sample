@@ -1,6 +1,8 @@
 # android_merge_adapter_sample
 Sample project of android MergeAdapter
 
+https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/MergeAdapter
+
 ```
  val mergeAdapter = MergeAdapter(
             textSectionAdapter,
